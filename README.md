@@ -38,6 +38,9 @@ $ cd Bulma_Custom
 
 ・sample.html をブラウザで開く
 
+<img width="150" alt="スクリーンショット 2020-09-15 17 28 05" src="https://user-images.githubusercontent.com/64339302/93191813-ec902b80-f77f-11ea-9fd2-6fa5b1d877b2.png">
+
+
 
 
 
