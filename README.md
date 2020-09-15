@@ -8,24 +8,17 @@
 - macOS （確認できたもの）
 
 # 参考
-- Bulma：https://bulma.io
-<br>
-CSS フレームワーク
+- Bulma：https://bulma.io　・・・　CSS フレームワーク
 
 - Bulma のカスタム方法：https://bulma.io/documentation/customize/with-sass-cli/
 
-- Bulma 変数：https://bulma.io/documentation/customize/variables/
-<br>
-カスタム出来る Bulma の変数
+- Bulma 変数：https://bulma.io/documentation/customize/variables/　・・・　カスタム出来る Bulma の変数
 
-- Sass：https://sass-lang.com/install
-<br>
-sass をコンパイルして css ファイルを作成する
+- Sass：https://sass-lang.com/install　・・・　sass をコンパイルして css ファイルを作成する
 
 # 使用方法
 
 ・Sass のインストール
-<br>
 <br>
 
 ```
@@ -35,14 +28,12 @@ brew install sass/sass/sass
 <br>
 ・ダウンロード
 <br>
-<br>
 
  ```
 $ cd （任意の場所）
 $ git clone https://github.com/yoshiswift/Bulma_Custom.git
 $ cd Bulma_Custom
 ```
-<br>
 <br>
 ・sample.html をブラウザで開く
 <br>
@@ -55,11 +46,8 @@ $ cd Bulma_Custom
 
 <br>
 <br>
-<br>
 
 ・ここからカスタム化（例）
-
-<br>
 
 ./sass/mystyles.scss に下記を追加
 
